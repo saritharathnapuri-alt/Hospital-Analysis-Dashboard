@@ -6,14 +6,14 @@ This project is an Excel-based hospital dashboard designed to analyze and manage
 
 🔹 Features
 
--Patient data tracking
+- Patient data tracking
 
-Appointment analysis
+- Appointment analysis
 
-Interactive dashboard using slicers/filters
+- Interactive dashboard using slicers/filters
 
-KPI metrics (e.g., total patients, revenue, etc.)
+- KPI metrics (e.g., total patients, revenue, etc.)
 
-Charts and graphs for data visualization
+- Charts and graphs for data visualization
 
-Pivot tables for dynamic data analysis
+- Pivot tables for dynamic data analysis
