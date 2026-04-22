@@ -27,3 +27,15 @@ This project is an Excel-based hospital dashboard designed to analyze and manage
 - Charts (Bar, Line, Pie, etc.)
   
 - Slicers / Filters
+
+- 🔹 Dashboard Preview
+
+Example:
+
+<img width="1801" height="818" alt="image" src="https://github.com/user-attachments/assets/2b8cc920-5c29-4f23-a712-a3700a21044d" />
+
+🔹 How to Use
+1. Download the Excel file
+2. Open in Microsoft Excel
+3.Use slicers/filters to interact with the dashboard
+4. Explore different sheets for detailed data
