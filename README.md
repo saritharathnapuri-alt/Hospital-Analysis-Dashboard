@@ -6,7 +6,7 @@ This project is an Excel-based hospital dashboard designed to analyze and manage
 
 🔹 Features
 
-Patient data tracking
+-Patient data tracking
 
 Appointment analysis
 
