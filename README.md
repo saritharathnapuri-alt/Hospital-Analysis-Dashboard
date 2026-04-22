@@ -17,3 +17,13 @@ This project is an Excel-based hospital dashboard designed to analyze and manage
 - Charts and graphs for data visualization
 
 - Pivot tables for dynamic data analysis
+
+- 🔹 Tools & Technologies
+
+- Microsoft Excel
+  
+- Pivot Tables
+
+- Charts (Bar, Line, Pie, etc.)
+  
+- Slicers / Filters
