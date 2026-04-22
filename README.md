@@ -1,2 +1,4 @@
-# Hospital-Analysis-Dashboard
-"A data-driven hospital dashboard built in Excel to track patient records, appointments, and key metrics using pivot tables, charts, and interactive visualizations."
+📊 Hospital Dashboard (Excel)
+🔹 Overview
+
+This project is an Excel-based hospital dashboard designed to analyze and manage patient data, appointments, and hospital performance metrics. It uses data visualization techniques to present insights in a clear and interactive way.
