@@ -43,4 +43,8 @@ Example:
 
 🔹 Project Files
 
-PK→ Main dashboard file
+https://github.com/saritharathnapuri-alt/Hospital-Analysis-Dashboard/blob/main/Hospital%20Dashboard.xlsx→ Main dashboard file
+
+🔹 Conclusion
+
+This project shows the practical use of Excel in building a data-driven hospital dashboard. It simplifies complex datasets into clear visual insights, helping in better decision-making for patient management and hospital operations. Overall, it reflects strong fundamentals in data analysis, visualization, and dashboard design using Excel.
