@@ -40,5 +40,7 @@ Example:
 3.Use slicers/filters to interact with the dashboard
 4. Explore different sheets for detailed data
 
+
 🔹 Project Files
-→ Main dashboard file
+
+Hospital_Dashboard.xlsx → Main dashboard file
